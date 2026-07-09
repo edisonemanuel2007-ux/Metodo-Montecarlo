@@ -20,3 +20,7 @@ Una fábrica produce miles de piezas diariamente. Debido a la gran cantidad de p
 ## Conclusión
 
 Este ejemplo demuestra cómo el método Montecarlo permite estimar la calidad de un proceso de producción mediante una muestra aleatoria. Gracias a este tipo de simulaciones, las empresas pueden tomar decisiones para mejorar sus procesos sin necesidad de inspeccionar la totalidad de los productos.
+
+## Gráfica
+![Uploading image.png…]()
+
