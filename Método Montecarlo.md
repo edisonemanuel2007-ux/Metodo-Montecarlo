@@ -41,6 +41,7 @@ Para aplicar el método Montecarlo de manera correcta, generalmente se siguen lo
 6. *Analizar los resultados:* Organizar e interpretar los datos obtenidos para calcular probabilidades, promedios o estimaciones.
 
 7. *Obtener conclusiones:* Utilizar los resultados para tomar decisiones o resolver el problema planteado.
+8. 
 ## Ventajas
 El método Montecarlo ofrece múltiples beneficios, especialmente cuando se trabaja con problemas complejos o con incertidumbre. Entre sus principales ventajas se encuentran:
 
@@ -50,6 +51,7 @@ El método Montecarlo ofrece múltiples beneficios, especialmente cuando se trab
 - Ayuda a analizar el riesgo y la probabilidad de que ocurran distintos escenarios.
 - Es un método flexible, ya que puede adaptarse a diferentes tipos de problemas.
 - Aprovecha la capacidad de las computadoras para realizar miles o millones de simulaciones en poco tiempo.
+- 
 ## Desventajas
 Aunque el método Montecarlo es muy útil, también presenta algunas limitaciones que deben considerarse:
 
@@ -59,8 +61,32 @@ Aunque el método Montecarlo es muy útil, también presenta algunas limitacione
 - La calidad de los resultados depende de que los números aleatorios utilizados sean adecuados.
 - En algunos casos, el análisis e interpretación de los resultados puede ser complejo.
 - Puede consumir una cantidad considerable de recursos computacionales cuando se trabaja con modelos muy grandes o detallados.
+- 
 ## Aplicaciones
+El método Montecarlo se utiliza en diversas áreas debido a su capacidad para resolver problemas que involucran incertidumbre y probabilidad. Algunas de sus principales aplicaciones son:
+
+- *Ingeniería:* Se emplea para analizar el comportamiento de estructuras, evaluar riesgos y optimizar procesos de fabricación.
+
+- *Finanzas:* Ayuda a estimar el riesgo de inversiones, calcular el valor de activos financieros y predecir diferentes escenarios económicos.
+
+- *Medicina:* Se utiliza para modelar la propagación de enfermedades, evaluar tratamientos y apoyar la toma de decisiones médicas.
+
+- *Física:* Permite simular fenómenos complejos, como el movimiento de partículas y las reacciones nucleares.
+
+- *Logística y transporte:* Se aplica para optimizar rutas, analizar tiempos de espera y mejorar la distribución de productos.
+
+- *Inteligencia artificial:* Se utiliza en algoritmos de aprendizaje, robótica y sistemas de toma de decisiones.
+
+Gracias a su versatilidad, el método Montecarlo continúa siendo una herramienta fundamental para la simulación y el análisis de problemas en múltiples disciplinas.
 
 ## Conclusión
+El método Montecarlo es una herramienta muy importante para resolver problemas en los que existe incertidumbre o es difícil obtener una solución exacta mediante métodos matemáticos tradicionales. Gracias al uso de números aleatorios y simulaciones, permite obtener estimaciones confiables que apoyan la toma de decisiones en distintas áreas del conocimiento.
+
+Durante esta investigación se pudo comprender el origen, funcionamiento, ventajas, desventajas y aplicaciones de este método. Además, se observó que, aunque los resultados obtenidos son aproximados, su precisión aumenta al realizar un mayor número de simulaciones.
+
+En la actualidad, el método Montecarlo continúa siendo una técnica ampliamente utilizada en la ingeniería, la ciencia, la medicina, las finanzas y muchas otras disciplinas, debido a su eficacia para analizar sistemas complejos y modelar situaciones reales.
 
 ## Referencias
+1. Banks, J., Carson, J. S., Nelson, B. L., & Nicol, D. M. Discrete-Event System Simulation. Pearson.
+2. Law, A. M. Simulation Modeling and Analysis. McGraw-Hill.
+3. Rubinstein, R. Y., & Kroese, D. P. Simulation and the Monte Carlo Method. John Wiley & Sons.
