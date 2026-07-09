@@ -1,5 +1,5 @@
 
-## Ejemplo 1
+## Ejemplo 1. Obtener un 6 al lanzar un dado 100 veces.
 Se desea conocer la probabilidad de obtener un 6 al lanzar un dado. En lugar de utilizar únicamente la probabilidad teórica, se realizarán varios lanzamientos simulados para obtener una estimación.
 
 ## Procedimiento
