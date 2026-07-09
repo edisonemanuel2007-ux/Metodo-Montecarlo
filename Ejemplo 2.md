@@ -16,7 +16,6 @@ Una fábrica produce miles de piezas diariamente. Debido a la gran cantidad de p
 
 ## Resultados
 <img width="1600" height="877" alt="image" src="https://github.com/user-attachments/assets/7f73ec2a-c432-4af8-968b-815b5ca0e4cc" />
-Esto indica que aproximadamente el *6 %* de la producción podría presentar algún defecto.
 
 ## Conclusión
 
