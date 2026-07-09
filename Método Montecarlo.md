@@ -41,7 +41,7 @@ Para aplicar el método Montecarlo de manera correcta, generalmente se siguen lo
 6. *Analizar los resultados:* Organizar e interpretar los datos obtenidos para calcular probabilidades, promedios o estimaciones.
 
 7. *Obtener conclusiones:* Utilizar los resultados para tomar decisiones o resolver el problema planteado.
-8. 
+   
 ## Ventajas
 El método Montecarlo ofrece múltiples beneficios, especialmente cuando se trabaja con problemas complejos o con incertidumbre. Entre sus principales ventajas se encuentran:
 
@@ -51,7 +51,7 @@ El método Montecarlo ofrece múltiples beneficios, especialmente cuando se trab
 - Ayuda a analizar el riesgo y la probabilidad de que ocurran distintos escenarios.
 - Es un método flexible, ya que puede adaptarse a diferentes tipos de problemas.
 - Aprovecha la capacidad de las computadoras para realizar miles o millones de simulaciones en poco tiempo.
-- 
+
 ## Desventajas
 Aunque el método Montecarlo es muy útil, también presenta algunas limitaciones que deben considerarse:
 
