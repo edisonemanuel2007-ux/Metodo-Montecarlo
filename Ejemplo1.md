@@ -1,3 +1,5 @@
+
+##Ejemplo 1
 Se desea conocer la probabilidad de obtener un 6 al lanzar un dado. En lugar de utilizar únicamente la probabilidad teórica, se realizarán varios lanzamientos simulados para obtener una estimación.
 
 ## Procedimiento
@@ -11,3 +13,6 @@ Se desea conocer la probabilidad de obtener un 6 al lanzar un dado. En lugar de 
 ## Resultados
 
 Supongamos que, después de 100 lanzamientos, el número 6 apareció 18 veces.
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4eb57e44-b6c3-44a5-8db0-e4768cf2b371" />
+
