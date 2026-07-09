@@ -3,6 +3,7 @@
 ## ¿Qué es el método Montecarlo?
 El método Montecarlo es una técnica matemática y computacional que utiliza números aleatorios para resolver problemas que pueden ser difíciles o imposibles de solucionar mediante métodos analíticos. Este método permite obtener aproximaciones de soluciones mediante la simulación de una gran cantidad de experimentos aleatorios.
 Se emplea en áreas como la ingeniería, la física, las finanzas, la estadística y la investigación científica para analizar sistemas complejos y estimar probabilidades o resultados.
+
 ## Historia
 El método Montecarlo surgió durante la década de 1940 como parte de las investigaciones realizadas para el Proyecto Manhattan, un programa científico desarrollado durante la Segunda Guerra Mundial. Su objetivo era resolver problemas muy complejos relacionados con la física nuclear mediante el uso de simulaciones y cálculos probabilísticos.
 
@@ -25,7 +26,21 @@ Su funcionamiento se basa en los siguientes pasos:
 
 Mientras mayor sea el número de simulaciones realizadas, más precisa suele ser la aproximación obtenida. Por esta razón, actualmente el método Montecarlo se implementa con ayuda de computadoras, ya que pueden generar millones de simulaciones en poco tiempo.
 ## Pasos del método Montecarlo
+Para aplicar el método Montecarlo de manera correcta, generalmente se siguen los siguientes pasos:
 
+1. *Definir el problema:* Identificar claramente el problema que se desea resolver o la situación que se quiere analizar.
+
+2. *Construir un modelo:* Representar el problema mediante un modelo matemático o estadístico que describa su comportamiento.
+
+3. *Asignar distribuciones de probabilidad:* Determinar cómo se comportan las variables del problema y asignarles una distribución de probabilidad adecuada.
+
+4. *Generar números aleatorios:* Utilizar números aleatorios para simular los posibles valores de las variables.
+
+5. *Realizar múltiples simulaciones:* Repetir el proceso muchas veces para obtener una gran cantidad de resultados.
+
+6. *Analizar los resultados:* Organizar e interpretar los datos obtenidos para calcular probabilidades, promedios o estimaciones.
+
+7. *Obtener conclusiones:* Utilizar los resultados para tomar decisiones o resolver el problema planteado.
 ## Ventajas
 El método Montecarlo ofrece múltiples beneficios, especialmente cuando se trabaja con problemas complejos o con incertidumbre. Entre sus principales ventajas se encuentran:
 
