@@ -25,3 +25,7 @@ Como puede observarse, el resultado obtenido mediante la simulación es muy cerc
 
 Este ejemplo demuestra cómo el método Montecarlo permite estimar probabilidades utilizando simulaciones aleatorias. Aunque los resultados pueden variar en cada simulación, al aumentar el número de lanzamientos la estimación se acerca cada vez más a la probabilidad real.
 
+## Gráfica
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a9df15d-00d5-4836-bfbd-2b881b221830" />
+
+
