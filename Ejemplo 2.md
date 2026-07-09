@@ -15,3 +15,9 @@ Una fábrica produce miles de piezas diariamente. Debido a la gran cantidad de p
 *Porcentaje de defectuosos = (Productos defectuosos / Total de productos inspeccionados) × 100*
 
 ## Resultados
+<img width="1600" height="877" alt="image" src="https://github.com/user-attachments/assets/7f73ec2a-c432-4af8-968b-815b5ca0e4cc" />
+Esto indica que aproximadamente el *6 %* de la producción podría presentar algún defecto.
+
+## Conclusión
+
+Este ejemplo demuestra cómo el método Montecarlo permite estimar la calidad de un proceso de producción mediante una muestra aleatoria. Gracias a este tipo de simulaciones, las empresas pueden tomar decisiones para mejorar sus procesos sin necesidad de inspeccionar la totalidad de los productos.
